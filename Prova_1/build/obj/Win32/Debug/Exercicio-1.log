@@ -1,0 +1,15 @@
+﻿  main.cpp
+main.obj : error LNK2019: símbolo externo indefinido __imp__glutInitWindowSize@8 referenciado na função _main
+main.obj : error LNK2019: símbolo externo indefinido __imp__glutInitDisplayMode@4 referenciado na função _main
+main.obj : error LNK2019: símbolo externo indefinido __imp__glutMainLoop@0 referenciado na função _main
+main.obj : error LNK2019: símbolo externo indefinido __imp__glutPostRedisplay@0 referenciado na função "void __cdecl update(int)" (?update@@YAXH@Z)
+main.obj : error LNK2019: símbolo externo indefinido __imp__glutSwapBuffers@0 referenciado na função "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: símbolo externo indefinido __imp__glutTimerFunc@12 referenciado na função "void __cdecl update(int)" (?update@@YAXH@Z)
+main.obj : error LNK2019: símbolo externo indefinido __imp__glutKeyboardFunc@4 referenciado na função _main
+main.obj : error LNK2019: símbolo externo indefinido __imp__glutSpecialFunc@4 referenciado na função _main
+main.obj : error LNK2019: símbolo externo indefinido __imp__glutDisplayFunc@4 referenciado na função _main
+main.obj : error LNK2019: símbolo externo indefinido __imp__glutMouseFunc@4 referenciado na função _main
+main.obj : error LNK2019: símbolo externo indefinido __imp____glutInitWithExit@12 referenciado na função _glutInit_ATEXIT_HACK@8
+main.obj : error LNK2019: símbolo externo indefinido __imp____glutCreateWindowWithExit@8 referenciado na função _glutCreateWindow_ATEXIT_HACK@4
+C:\Users\esm.ti\Documents\GitHub\CG-2019.1-Exercicio\src\Exercicio-1\..\..\libs\freeglut-MSVC-3.0.0-2.mp\freeglut\lib\x64\freeglut.lib : warning LNK4272: o tipo de máquina da biblioteca 'x64' está em conflito com o tipo de máquina de destino 'x86'
+C:\Users\esm.ti\Documents\GitHub\CG-2019.1-Exercicio\src\Exercicio-1\..\..\build\Win32\Debug\Exercicio-1.exe : fatal error LNK1120: 12 externo não resolvidos

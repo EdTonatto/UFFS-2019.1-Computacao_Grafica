@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\esm.ti\documents\github\cg-2019.1-exercicio\src\exercicio-1\main.cpp(9): fatal error C1083: Não é possível abrir arquivo incluir: 'GL/glut.h': No such file or directory
